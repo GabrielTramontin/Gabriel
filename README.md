@@ -19,5 +19,7 @@ Profissional
 Linguagem: C++, Visual G, Java
 <br>
 Um dos criadores do jogo Super Amoroso
+<br>
+
 
 
