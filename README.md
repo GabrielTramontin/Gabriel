@@ -4,6 +4,8 @@ Idade: 15
 <br>
 Cidade:Forquilhinha
 <br>
+Curso: Informatica
+<br>
 jogos: MultiVersus, Fifa, Among Us
 <br>
 
@@ -13,3 +15,4 @@ jogos: MultiVersus, Fifa, Among Us
 Profissional
 <br>
 Linguagem: C++, Visual G, Java
+
