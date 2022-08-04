@@ -6,6 +6,8 @@ Cidade:Forquilhinha
 <br>
 Curso: Informatica
 <br>
+Colegio: Satc
+<br>
 jogos: MultiVersus, Fifa, Among Us, Minecraft
 <br>
 
