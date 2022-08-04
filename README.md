@@ -6,7 +6,7 @@ Cidade:Forquilhinha
 <br>
 Curso: Informatica
 <br>
-jogos: MultiVersus, Fifa, Among Us
+jogos: MultiVersus, Fifa, Among Us, Minecraft
 <br>
 
 <img width="200" src="https://c.tenor.com/y-MmylUQlR4AAAAd/among-us.gif">
@@ -15,4 +15,5 @@ jogos: MultiVersus, Fifa, Among Us
 Profissional
 <br>
 Linguagem: C++, Visual G, Java
+
 
