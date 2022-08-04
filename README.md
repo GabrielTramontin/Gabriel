@@ -2,13 +2,15 @@ Nome: Gabriel Tramontin Aguiar
 <br>
 Idade: 15
 <br>
-Cidade:Forquilhinha
+🏠 Cidade:Forquilhinha
 <br>
-Curso: Informatica
+🏀 ⚽️ Esportes: Basquete e Fultebol
 <br>
-Colegio: Satc
+💻 Curso: Informatica
 <br>
-jogos: MultiVersus, Fifa, Among Us, Minecraft
+🏫 Colegio: Satc
+<br>
+🎮 jogos: MultiVersus, Fifa, Among Us, Minecraft
 <br>
 
 <img width="200" src="https://c.tenor.com/y-MmylUQlR4AAAAd/among-us.gif">
@@ -16,10 +18,11 @@ jogos: MultiVersus, Fifa, Among Us, Minecraft
 <br>
 Profissional
 <br>
-Linguagem: C++, Visual G, Java
+Linguagem: C++, Visual G, Java, Html
 <br>
-Um dos criadores do jogo Super Amoroso
+👨‍💻 Um dos criadores do jogo Super Amoroso
 <br>
+
 
 
 
