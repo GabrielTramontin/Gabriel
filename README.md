@@ -8,18 +8,10 @@ Idade: 17
 <br>
 🏫 Colegio: Satc
 <br>
-
-
-<img width="200" src="https://c.tenor.com/y-MmylUQlR4AAAAd/among-us.gif">
-
-<br>
 Profissional
 <br>
-Linguagem: C++, Visual G, Java, Html
+Linguagem: Css, Html, PHP,Python
 <br>
-👨‍💻 Um dos criadores do jogo Super Amoroso
-<br>
-
 
 
 
