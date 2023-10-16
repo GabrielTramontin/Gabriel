@@ -10,7 +10,7 @@ Idade: 17
 <br>
 Profissional
 <br>
-Linguagem: Css, Html, PHP,Python
+Linguagem: Css, Html, PHP,Python,JS
 <br>
 
 
